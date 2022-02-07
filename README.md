@@ -1,2 +1,2 @@
 # Meteor-invasion-mods-in-space
-I decided to extend my version of "Space rocks" (meteor invasion) with a "space mods" adaption. Might have done it right this time.
+I decided to extend my version of "Space rocks" (meteor invasion) with a "space mods" adaption. I am using the [YoYo youtube channel tutorial playlist called "space mods"](https://www.youtube.com/watch?v=uBCXLlsQc2c&list=PLhIbBGhnxj5K1AGSvr99u1ZolHpAi31p4&index=1).
