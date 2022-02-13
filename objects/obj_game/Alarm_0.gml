@@ -20,9 +20,10 @@ right at the start of this tutorial: 60FPS. So, by setting the alarm to 4 * room
 are setting it to trigger again in 4 seconds.
 
 **/
-alarm[0] = 4 * room_speed;
+spawn_off_camera(obj_asteroid,1);
+alarm[0] = 1 * room_speed;
 
-
+/******************************************
 if (choose(0,1) == 0) {
 		var xx = choose(0, room_width);
 		var yy = irandom_range(0, room_height);
@@ -34,6 +35,7 @@ if (choose(0,1) == 0) {
 
 instance_create_layer(xx, yy, "instances", obj_asteroid);
 
+*********************************************/
 
 /***************
 if (room != rm_game) {

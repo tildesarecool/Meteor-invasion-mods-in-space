@@ -6,7 +6,7 @@ if (room == rm_game) {
 		}
 
 	audio_play_sound(msc_song, 2, true);
-
+/*
 	repeat(6) {
 		// as the tutorial says 
 		// "This gives the player the best possible starting circumstances as there will be no asteroids created near them. "
@@ -16,6 +16,7 @@ if (room == rm_game) {
 	    instance_create_layer(xx, yy, "Instances", obj_asteroid);
 	    }
 	// note: outside the repeat 6 loop, inside the "if room is game room" loop
+*/
 	alarm[0] = 60;
 }
 

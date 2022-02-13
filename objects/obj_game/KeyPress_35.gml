@@ -2,6 +2,10 @@
 
 // Switch
 // originaly l63690F46_0
+
+spawn_off_camera()
+
+
 var iGameroomname = room;
 switch(iGameroomname)
 {
